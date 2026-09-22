@@ -1,6 +1,6 @@
 -- Sunrise Supermarket - PL/SQL Assignment One
--- Student: NKURANGA BAZIGA CALEB
--- Student ID: 28845
+-- Student: KAYITESI Annet
+-- Student ID: 29077
 -- DBMS: Oracle Database
 
 -- =========================================================
